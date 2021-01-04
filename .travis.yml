@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: java
 before_install:
   - bash dev/travis-before_install.sh
